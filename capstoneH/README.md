@@ -1,6 +1,10 @@
-Problem Statement:
+# CAPSTONE-PROJECT-02-PROSES-DATA-MINING-REVIEW-EDA
 
-MixITup Ice Cream
+# Case Study Clustering Analysis & Association Rule
+
+##Problem Statement:
+
+#MixITup Ice Cream
 
 MixITup adalah perusahaan rintisan yang dimotori para anak muda yang bergerak di bidang usaha Ice Cream, Boba Drinks, dan Desserts (snacks).
 Saat ini MixITup memiliki 3 cabang di Jakarta, Depok, dan Tangerang. MixITup mendapat respon positif di masyarakat, antrian dine-in dan pesan-antar produk MixITup melebihi kapasitas pelayanan.
@@ -20,6 +24,6 @@ Yakinkan anda memberikan informasi/insight serta rekomendasi/strategi Non-Trivia
 Yakinkan ada kesimpulan akhir (penutup) di bagian paling bawah "ipynb" anda.
  
 
- File Data & Data Understanding:
+##File Data & Data Understanding:
 
 https://github.com/taudataanalytics/Data-Mining--Penambangan-Data--Ganjil-2024/raw/refs/heads/main/data/Case-Study-02-MixITup.xlsx  
