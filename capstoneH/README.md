@@ -2,9 +2,9 @@
 
 # Case Study Clustering Analysis & Association Rule
 
-##Problem Statement:
+## Problem Statement:
 
-#MixITup Ice Cream
+# MixITup Ice Cream
 
 MixITup adalah perusahaan rintisan yang dimotori para anak muda yang bergerak di bidang usaha Ice Cream, Boba Drinks, dan Desserts (snacks).
 Saat ini MixITup memiliki 3 cabang di Jakarta, Depok, dan Tangerang. MixITup mendapat respon positif di masyarakat, antrian dine-in dan pesan-antar produk MixITup melebihi kapasitas pelayanan.
