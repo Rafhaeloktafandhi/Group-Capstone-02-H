@@ -11,7 +11,7 @@
 - Melalui iming-iming diskon 5% untuk beberapa item di tokonya dan pembagian voucher promo diskon, MixITup berhasil mengumpulkan data pelanggan melalui kartu membernya (loyality program).
 - Anda adalah Data Analyst junior di MixITup, tugas anda adalah melakukan proses Data Mining dan memberikan informasi/insight dan saran/rekomendasi/strategi ke perusahaan via data.
 
-##Catatan:
+## Catatan:
 
 - MixITup belum memiliki Data Engineer, file yang diberikan oleh perusahaan akan bertipe/format "Excel"!!!... Warning … Karena file berbentuk Excel anda harus menyiapkan mekanisme agar file tersebut dapat di load secara automatis ketika Jupyter Notebook and di "Run-All" oleh dosen.
 - Tentukan ketua kelompok, silahkan mulai fikirkan strategi pembagian kerja kelompoknya.
